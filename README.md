@@ -6,7 +6,7 @@ Sketch utilities for Practera designers.
 
 ## Installation
 
-Download the plugin and double click it to install.
+Download the plugin and double click `pfas-tools.sketchplugin` to install.
 
 ## 1. Set Dash and Gap as Percentage
 
