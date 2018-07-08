@@ -1,0 +1,18 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Set Dash and Gap as Percentage",
+      "identifier": "set-dash-and-gap-as-percentage",
+      "script": "./set-dash-and-gap-as-percentage.js"
+    }
+  ],
+  "menu": {
+    "title": "PFAS Tools",
+    "items": [
+      "set-dash-and-gap-as-percentage"
+    ]
+  }
+}
